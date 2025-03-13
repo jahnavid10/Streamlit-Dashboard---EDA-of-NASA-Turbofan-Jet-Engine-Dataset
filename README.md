@@ -1,2 +1,7 @@
 #  NASA Turbofan Engine Degradation - EDA & Preprocessing
-This repository provides an interactive exploratory data analysis (EDA) and data preprocessing pipeline for the NASA Turbofan Jet Engine Degradation Simulation Dataset (C-MAPSS). It uses Streamlit to provide an intuitive and interactive UI for analyzing sensor data, calculating Remaining Useful Life (RUL), visualizing key patterns, and scaling the data for ML pipelines.
+This project is focused on interactive exploration and preprocessing of the NASA C-MAPSS dataset, which simulates engine degradation over time. The dataset is used extensively in predictive maintenance, prognostics, and Remaining Useful Life (RUL) estimation tasks.
+Using Streamlit, this app offers both code-based notebooks and interactive dashboards to:
+ - Visualize engine lifecycle and health patterns
+ - Calculate RUL per engine
+ - Identify redundant or irrelevant features
+ - Prepare data for machine learning pipelines
