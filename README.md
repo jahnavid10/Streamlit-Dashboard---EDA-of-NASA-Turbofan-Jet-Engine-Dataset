@@ -1,1 +1,2 @@
-# Streamlit Dashboard - NASA Turbofan Jet Engine Dataset
+#  NASA Turbofan Engine Degradation - EDA & Preprocessing
+This repository provides an interactive exploratory data analysis (EDA) and data preprocessing pipeline for the NASA Turbofan Jet Engine Degradation Simulation Dataset (C-MAPSS). It uses Streamlit to provide an intuitive and interactive UI for analyzing sensor data, calculating Remaining Useful Life (RUL), visualizing key patterns, and scaling the data for ML pipelines.
